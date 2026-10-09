@@ -1,0 +1,2 @@
+scenario_id,supplier,disruption_start,duration
+S1_DISRUPTION_01,S1,10,7

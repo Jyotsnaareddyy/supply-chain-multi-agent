@@ -1,0 +1,3 @@
+supplier_id,capacity,lead_time,risk_score
+S1,700,3,0.35
+S2,450,4,0.21

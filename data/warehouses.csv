@@ -1,0 +1,4 @@
+warehouse_id,capacity,safety_stock
+WH1,2000,200
+WH2,2000,200
+WH3,1500,150

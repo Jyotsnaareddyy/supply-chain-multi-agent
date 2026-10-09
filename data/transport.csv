@@ -1,0 +1,13 @@
+origin,destination,mode,cost,lead_time
+S1,DC,road,5,3
+S2,DC,road,6,4
+S2,DC,air,18,1
+DC,WH1,road,3,1
+DC,WH2,road,3,1
+DC,WH3,road,3,1
+WH1,WH2,road,4,1
+WH1,WH3,road,4,1
+WH2,WH1,road,4,1
+WH2,WH3,road,4,1
+WH3,WH1,road,4,1
+WH3,WH2,road,4,1

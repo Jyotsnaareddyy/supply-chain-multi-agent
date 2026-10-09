@@ -1,0 +1,7 @@
+customer_id,warehouse_id,demand,priority
+C1,WH1,86,high
+C2,WH1,135,high
+C3,WH2,96,medium
+C4,WH2,87,medium
+C5,WH3,122,low
+C6,WH3,158,low
